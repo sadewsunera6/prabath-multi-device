@@ -1,4 +1,4 @@
-const DATABASE = "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" // මෙතනට mongodb,mysql,postgresql or github token එකක් enter කරන්න මේ "" දෙක මැදට. (Enter a mongodb,mysql,postgresql or github token here between these two "".)
+const DATABASE = "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" // මෙතනට mongodb,mysql,postgresql or github token එකක් enter කරන්න මේ "" දෙක මැදට. (Enter a mongodb,mysql,postgresql or github token here between these two "".)
 const BOT_NUMBER = "+3197010222510" // ඔයාගෙ whatsapp number එක. (your whatsapp number)
 const SESSION_ID = "PRABATH-MD~GaY75ZJdAiHSkg6" // ඔයාගෙ session id එක මේකෙන් ගන්න - https://prabathmd-official.vercel.app
 
